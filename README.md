@@ -68,12 +68,12 @@ I’m fascinated by how **AI and IoT** integrate into daily life and enjoy worki
 ---
 
 ### 📌 Quick Links  
-- [Projects](#-projects)  
-- [Technical Skills](#-technical-skills)  
-- [Internships](#-internships--experience)  
-- [Certifications](#-certifications)  
-- [Education](#-education)  
-- [Contact Me](#-how-to-reach-me)  
+- [Projects](https://github.com/lbrce507/lbrce507/blob/main/README.md#-projects)  
+- [Technical Skills](https://github.com/lbrce507/lbrce507/blob/main/README.md#%EF%B8%8F-technical-skills)  
+- [Internships](https://github.com/lbrce507/lbrce507/blob/main/README.md#-internships--experience)  
+- [Certifications](https://github.com/lbrce507/lbrce507/blob/main/README.md#-certifications)  
+- [Education](https://github.com/lbrce507/lbrce507/blob/main/README.md#-education)  
+- [Contact Me](https://github.com/lbrce507/lbrce507/blob/main/README.md#-how-to-reach-me)  
 
 ---
 
