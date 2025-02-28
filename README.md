@@ -1,86 +1,79 @@
-- 👋 Hi, I’m @lbrce507
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-# 👋 Hi, I’m @lbrce507
+# 👋 Hi, I’m **Vallabhuni Tulasi Naga Kalyan**  
 
-## 👀 About Me
-I'm passionate about technology and enjoy exploring various programming languages and software development methodologies.
+## 👀 About Me  
+I'm an **Electronics and Communication Engineering** graduate passionate about **Embedded Systems, IoT, Web Development, and Data Analytics**.  
+I love solving real-world problems through technology and continuously expanding my skill set.  
 
-## 🌱 I’m currently learning
-I'm currently diving deep into machine learning and artificial intelligence, as well as sharpening my skills in web development with modern frameworks like React.js and Vue.js.
+## 🌱 I’m Currently Learning  
+- **Full-Stack Development** (Java, Python, HTML, CSS)  
+- **Embedded Systems & PCB Design**  
+- **Machine Learning & AI Applications**  
 
-## 💼 I’m looking to collaborate on
-I'm open to collaborating on projects related to data science, web development, and open-source initiatives. Feel free to reach out if you have an interesting project in mind!
+## 💼 Internships & Experience  
+1. **Cyber Security Internship** – CISCO (AICTE) (Online) | 2022  
+2. **Python Internship** – Pantech Solutions Pvt. Ltd. (Online) | 2024  
+3. **Green Skills Using AI Technologies** – EduNET Foundation (AICTE) (Online) | 2025  
+4. **Data Analytics Internship Using Python** – YBI Foundation (Online) | 2025  
+5. **Google Android Developer Internship** – EduSkills (APSCHE) (Online) | 2025
 
-## 📫 How to reach me
-You can reach me via email at lbrce507@example.com or connect with me on [LinkedIn](https://www.linkedin.com/in/lbrce507/).
+## 🔬 Projects  
+1. **Wearable Antenna for Industrial & Medical Applications**  
+   - Designed a microstrip patch antenna operating at **2.45 GHz** for **Body Area Networks (WBAN)**.  
+   - **Technologies Used:** `HFSS ANSYS`, `MATLAB`, `Polyimide Substrate`.  
 
-## 😄 Pronouns
-She/Her
+2. **Noise Signal Elimination from Audio**  
+   - Implemented **MATLAB-based filters** to remove noise from audio signals.  
+   - **Tools Used:** `MATLAB`, `Signal Processing`.  
 
-## ⚡ Fun fact
-I'm an avid hiker and love exploring new trails whenever I get the chance!
+3. **IoT-based Smart Notice Board**  
+   - Built a real-time **IoT-powered notice board** for seamless message updates.  
+   - **Technologies Used:** `Arduino`, `IoT Modules`, `Web Dashboard`.  
 
-<!-- Feel free to customize and add more sections as needed -->
+4. **Sustainable Street Lighting System**  
+   - Developed an energy-efficient **solar-powered street lighting system**.  
+   - **Technologies Used:** `Arduino`, `Solar Panels`.
+4. **Currency Converter using Python**  
 
-### Education
-- Bachelor of Science in Computer Science, University Name, Graduation Year
+   A simple **Currency Converter** application built using **Tkinter** and the **CurrencyConverter** library.  
+   This tool allows users to:  
+      - Input an amount  
+      - Select the source and target currencies  
+      - Get real-time currency conversion rates  
+      - 🚀 Easy-to-use and efficient for quick conversions!  
 
-### Skills
-- Programming Languages: Python, JavaScript, Java, C++
-- Web Development: HTML/CSS, React.js, Vue.js, Node.js
-- Data Science: Pandas, NumPy, TensorFlow, scikit-learn
-- Databases: SQL, MongoDB
-- Version Control: Git, GitHub
-- Other Tools: Docker, AWS, Google Cloud Platform
+## 🛠️ Technical Skills  
+- **Programming Languages:** `Java`, `Python`, `C`, `Data Structures`, `Verilog`  
+- **Web Technologies:** `HTML`, `CSS`  
+- **Software & Tools:** `LabVIEW`, `MATLAB`, `HFSS ANSYS`  
+- **Embedded Systems:** `PCB Design`, `IoT`, `Arduino`  
 
-### Work Experience
-1. Software Engineer Intern, Company Name, Date
-   - Developed and maintained web applications using React.js and Node.js
-   - Implemented new features and fixed bugs based on user feedback
-   - Collaborated with cross-functional teams to deliver high-quality software products
+## 🎓 Education  
+- **B.Tech in Electronics and Communication Engineering**  
+  - *Lakireddy Bali Reddy College of Engineering* (2021 – 2025)  
+- **Senior Secondary (Non-Medical)**  
+  - *Sri Chaitanya Junior College* (2019 – 2021)  
 
-2. Data Science Intern, Company Name, Date
-   - Analyzed large datasets using Python and libraries like Pandas and NumPy
-   - Built predictive models and conducted statistical analysis to derive actionable insights
-   - Presented findings to stakeholders and made recommendations for business improvements
+## 📜 Certifications  
+- **Java Full Stack Development Certification** – Wipro Talent NeXT Program  
+- **Workshop on Embedded Systems**  
+- **Workshop on PCB Design**  
 
-### Projects
-1. Project Name 1
-   - Description: Brief description of the project
-   - Technologies Used: List of technologies/tools used in the project
-   - GitHub Repository: [Link](https://github.com/yourusername/project-name-1)
+## 📫 How to Reach Me  
+📧 **Email:** tulasinagakalyan@gmail.com  
+🔗 **LinkedIn:** [Click Here](https://www.linkedin.com/in/vallabhuni-tulasi-naga-kalyan-781723274/)  
 
-2. Project Name 2
-   - Description: Brief description of the project
-   - Technologies Used: List of technologies/tools used in the project
-   - GitHub Repository: [Link](https://github.com/yourusername/project-name-2)
+## ⚡ Fun Fact  
+I’m fascinated by how **AI and IoT** integrate into daily life and enjoy working on **tech-driven sustainability solutions**!  
 
-### Certifications
-- Certification Name, Issuing Organization, Date
-- Certification Name, Issuing Organization, Date
+---
 
-### Publications
-- Publication Title, Journal/Conference, Date
-- Publication Title, Journal/Conference, Date
+### 📌 Quick Links  
+- [Projects](#-projects)  
+- [Technical Skills](#-technical-skills)  
+- [Internships](#-internships--experience)  
+- [Certifications](#-certifications)  
+- [Education](#-education)  
+- [Contact Me](#-how-to-reach-me)  
 
-### Volunteer Experience
-- Volunteer Position, Organization Name, Date
-- Volunteer Position, Organization Name, Date
+---
 
-### Hobbies & Interests
-- Hiking
-- Photography
-- Reading fiction novels
-- Playing musical instruments
-
-<!-- Add more sections or customize existing ones as needed -->
-
-<!---
-lbrce507/lbrce507 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
